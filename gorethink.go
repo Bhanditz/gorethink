@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"reflect"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 
 	"gopkg.in/dancannon/gorethink.v2/encoding"
 )
